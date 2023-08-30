@@ -17,3 +17,18 @@ console.log(numbersArray);
 //This will remove the last element from an array
 booleansArray.pop();
 console.log(booleansArray);
+
+//Index Positions
+
+//Index positions refer to the location of a specific element within an array
+//Index positions always start with 0 and increases by 1 with each additional element within an array
+//Therefore, the first element within an array is at index poisition 0
+//The second element within an array is at index position 1
+//The third element within an array is at index position 2
+//And so on and so forth...
+//I'll use my stringsArray variable above as an example:
+//Nicole is index position 0
+//Holly is index position 1
+//Michie is index position 2
+//Tommy is index position 3
+//Christie is index position 4
